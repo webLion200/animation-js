@@ -19,3 +19,4 @@ function animation(ele, positions, imgUrl) {
 	}
 	run();
 }
+
